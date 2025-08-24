@@ -1,6 +1,5 @@
-
-
 📊 HR Attrition Insights Dashboard – Power BI
+
 🔹 Project Overview
 
 Designed and developed an interactive Power BI dashboard to analyze employee attrition trends and provide actionable insights for HR teams. The dashboard helps identify key factors influencing employee turnover and supports data-driven decision-making.
@@ -11,9 +10,8 @@ Power BI (Dashboarding & Visualization)
 
 Power Query (Data Cleaning & Transformation)
 
-DAX (Measures & KPIs)
+Measures & KPIs
 
-Data Modeling (Star Schema, Relationships)
 
 🔹 Key Features
 
@@ -23,11 +21,10 @@ KPIs: Total Employees, Attrition Count, Attrition Rate, Avg Salary, Avg Tenure.
 
 Visualizations: Attrition by Department, Age Group, Salary, and Tenure.
 
-Automated data refresh with Power Query.
 
 🔹 Insights
 
-Higher attrition among younger employees (<30) and certain job roles.
+Higher attrition among younger employees (average age is 37) and certain job roles.
 
 Lower salaries and shorter tenure were strongly correlated with higher turnover.
 
